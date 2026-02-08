@@ -1,0 +1,7 @@
+fastapi
+motor
+stripe
+uvicorn
+httpx
+pytest
+dotenv
