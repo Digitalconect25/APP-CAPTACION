@@ -1,0 +1,17 @@
+# Emergent.sh Configuration
+
+dependency:
+  # specify any dependencies here
+
+database:
+  host: "localhost"
+  port: 3306
+  username: "your_username"
+  password: "your_password"
+  name: "your_database_name"
+
+server:
+  host: "0.0.0.0"
+  port: 80
+
+# Other configurations for the Emergent.sh deployment
